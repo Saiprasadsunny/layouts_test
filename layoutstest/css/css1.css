@@ -1,0 +1,38 @@
+body {
+    font-family: serif;
+}
+#header{
+    background-color:skyblue;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    color:black;
+}
+.sidebar{
+    width: 25%;
+    float: left;
+    height: 300px; 
+    background-color:lightskyblue;
+    padding: 20px;
+}
+nav ul{
+ list-style-type: none;
+ padding: 40px;
+}
+.article{
+    float: right;
+    padding: 20.4px;
+    width: 68.9%;
+    background-color:deepskyblue;
+    height: 300px;
+    font-size: 20px;
+}
+.footer{
+    clear: both;
+    font-weight: bold;
+    background-color:skyblue;
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
+

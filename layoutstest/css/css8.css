@@ -1,0 +1,38 @@
+.left{
+    width: 15%;
+    height: 540px;
+    background-color: aqua;
+    color: black;
+    float: left;
+}
+.box1{
+    width: 70%;
+    height: 90px;
+    margin-left: 215px;
+    background-color: aqua;
+    color: black;
+}
+.box2{
+    width: 70%;
+    height: 230px;
+    margin-left: 215px;
+    margin-top: 13px;
+    background-color: aqua;
+    color: black;
+}
+.box3{
+    width: 70%;
+    height: 90px;
+    margin-left: 215px;
+    background-color: aqua;
+    margin-top: 13px;
+    color: black; 
+}
+.box4{
+    width: 70%;
+    height: 90px;
+    margin-left: 215px;
+    background-color: aqua;
+    margin-top: 13px;
+    color: black; 
+}

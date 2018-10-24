@@ -1,0 +1,24 @@
+.left{
+    width: 20%;
+    height: 500px;
+    background-color: aquamarine;
+    color: black;
+    float: left;
+}
+.container{
+    float: left;
+    width: 80%;
+    height: 500px;
+}
+.col1{
+    width: 80%;
+    height: 100px;
+    background-color: cyan;
+    color: black;
+}
+.article{
+    width: 80%;
+    height: 300px;
+    background-color:lightskyblue;
+    color: black;
+}
